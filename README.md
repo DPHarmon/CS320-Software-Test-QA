@@ -113,7 +113,5 @@ Testing approach:
 
 * :school: SNHU
 * Instructor: Rob Tuft
-* Course materials and references (Atlassian on technical debt, UX/happy-path references)
-* Inspiration & citation: Grigoryan & Grigoryan (2024), Atlassian documentation
 
 ---
